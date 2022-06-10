@@ -6,5 +6,8 @@
 # Desafio de Projeto sobre Git/GitHub da DIO (Digital Innovation One)
 Repositório criado para o Desafio de Projeto Git/GitHub
 <br><br><br>
+## Status: 
+em andamento
+<br><br><br>
 ## Links úteis:
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
